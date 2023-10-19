@@ -1,3 +1,4 @@
 import pandas as pandas
 import numpy as np
 import matplotlib as plt 
+import MinMaxScaler
