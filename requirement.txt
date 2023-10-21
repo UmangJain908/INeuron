@@ -3,3 +3,4 @@ import numpy as np
 import matplotlib as plt 
 import MinMaxScaler
 import Standard Scaler
+import seaborn
